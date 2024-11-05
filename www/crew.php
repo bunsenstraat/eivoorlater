@@ -1,0 +1,109 @@
+<html>
+<head>
+<META NAME="DESCRIPTION" CONTENT="In deze persoonlijke documentaire worstelt Marieke, een 35-jarige Amsterdamse single, met haar aftikkende biologische klok. Ze wil graag kinderen, maar ze heeft de ware nog niet gevonden. Om zichzelf meer tijd te geven wil ze haar eicellen laten invriezen. Maar in Nederland kan dit (nog) niet. Marieke laat het er niet bij zitten en begint een zoektocht in het medische circuit.">
+<META NAME="KEYWORDS" CONTENT="baby,
+biologische klok,
+dertigersdilemma,
+documentaire,
+eicellen invriezen,
+Ei voor later,
+fertiliteit,
+fertiliteitsbehandeling,
+IVF,
+kinderwens,
+Marieke Schellart,
+NCRV,
+single,
+trailer,
+Trueworks,
+vruchtbaarheidsproblemen,
+zwanger">
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<META NAME="REVISIT-AFTER" CONTENT="6 Days">
+<TITLE>Ei voor later</TITLE>
+	<link rel="stylesheet" type="text/css" href="style.css"> 
+	
+</head>
+<body>
+<div id='main'>
+<ul id='menu'>
+	<li><a target=_self href='index.php'>Home</a></li>
+	<li><a target=_self href='trailer.php'>Trailer</a></li>
+	<li><a target=_self href='synopsis.php'>Synopsis</a></li>
+	<li><a class='selected'  target=_self href='crew.php'>Crew</a></li>
+	<li><a target=_self href='screenings.php'>Screenings</a></li>
+	<li><a target=_self href='media.php'>Media</a></li>
+	<li><a target=_self href='pers.php'>Pers</a></li>
+	<li><a target=_self href='contact.php'>Contact</a></li>
+	<li><a target=_blank href='http://www.facebook.com/pages/Ei-voor-later/158976130798074'><img src="fb.jpg" alt="fb"/></a></li>
+</ul>
+<div class='header'>
+<h1>Crew</h1>
+<hr>
+</div>
+<div class='contentframe'>
+	<div id='crew'>
+		<div class="imagecol">
+			<img id='i1' src="mariekeschellart.jpg" alt="mariekeschellart" width="110" height="110"/>
+			<img id='i2' src="annekedelindvanwijngaarden.jpg" alt="annekedelindvanwijngaarden" width="110" height="110"/>
+			<img id='i4' src="reinettevandestadt.jpg" alt="reinettevandestadt" width="110" height="110"/>
+			<img id='i3' src="sonjavanhamel.jpg" alt="sonjavanhamel" width="110" height="110"/>
+			
+		</div>
+		<div class='leftcol'>
+		
+
+<h2>Regie<br>MARIEKE SCHELLART</h2>
+Marieke (1973) is afgestudeerd als Industrieel Ontwerper aan de TU Delft. Na 8 jaar als art director bij verschillende reclame bureau's gewerkt te hebben, ging ze weer naar school om regie documentaire te studeren aan de HKU. Zij vroeg Anneke de Lind van Wijngaarden, wie zij eerder assisteerde, om haar te helpen bij haar film Ei voor later.
+
+
+
+<h3>Camera & Montage
+<br>ANNEKE DE LIND VAN WIJNGAARDEN</h3>
+Anneke (1971) is regisseur, cameravrouw en editor. Voor televisie maakte ze o.a. de jeugddocumentaires: Nikita, Tietjes en Danny's Parade. Met deze laatste film won zij de Beeld en Geluid Award 2008. Voor Ei voor later deed zij het camera werk en de montage. Anneke weet zich met haar camera bijna onzichtbaar te maken en komt zo heel dichtbij.<br>
+<a target=_blank href='http://www.annekedelindvanwijngaarden.nl'>www.annekedelindvanwijngaarden.com</a>
+
+<h3>Producent<br>REINETTE VAN DE STADT</h3>
+Reinette (1974) werkte bij verschillende producenten als uitvoerend producent. Ze werkte aan verschillende speelfilms, zoals Het Zuiden van Martin Koolhoven, Manderlay van Lars von Trier. In 2003 richtte ze haar eigen productiebedrijf Trueworks op. Met Trueworks produceerde ze meer dan 6 documentaires  en 4 korte fictie films waaronder Missen van Jochem de Vries, die geselecteerd was door het filmfestival in Cannes 2009.<br><a target=_blank href='http://www.trueworks.nl'>www.trueworks.nl</a>
+
+<h3>Muziek<br>SONJA VAN HAMEL</h3>
+Sonja (1971) studeerde af aan de Gerrit Rietveld Academie in 1999. Ze maakt muziek, grafisch ontwerp en tekeningen. Sonja heeft al meerdere CD's op haar naam staan, voorheen met popduo BAUER en tegenwoordig als solo artiest. Ei voor later is de eerste documentaire waar zij de muziek voor heeft gemaakt. Haar gevoelige soms dromerige pop nummers passen goed bij de intieme vrouwelijke stijl van Ei voor later. Een aantal van de nummers zullen ook verschijnen op haar nieuwe CD die in 2011 zal uit komen.
+<a target=_blank href='http://www.sonjavanhamel.nl'>www.sonjavanhamel.nl</a>
+
+
+
+
+
+		</div>
+		<div class='crewbottom'>
+		<h2>Geluid</h2><a href="http://www.helderfilm.nl" target="_blank">Arno van Beest</a> - Bas van Zomeren
+<h2>Montage</h2> Advies Govert Janse
+<h2>Geluidsnabewerking</h2><a href="http://www.idenburgmusic.com" target="_blank" >Diederik Idenburg</a>, Rob van de Schootbrugge
+<h2>Postproductie beeld</h2><a href="http://www.Postoffice.nl" target="_blank" >Postoffice</a>
+<h2>Kleurcorrectie</h2> Daphne Maierna
+<h2>Grafisch ontwerp</h2><a href="http://www.sanderplug.com" target="_blank" >Sander Plug</a>
+<h2>Website</h2><a href="http://www.fabricekoopman.nl" target="_blank" >Fabrice Koopman</a> - <a href="http://www.script-store.nl" target="_blank" >Filip Mertens</a>
+<h2>Productie NCRV</h2> Yolande van der Blij
+<h2>Eindredactie NCRV</h2> Jelle Peter de Ruiter
+<br><br>
+Met dank aan NOS Journaal, RTL Nederland, Andere Tijden, VPRO
+<br>
+Deze film is mede mogelijk gemaakt door<br><a href="http://www.rathenau.nl" target="_blank" >Rathenau Instituut</a>, Stichting Biotechnologie Nederland & <a href="http://www.vvao.nl" target="_blank" >VVAO</a>
+<br><br>
+<i>Ei voor later</i> is geproduceerd door Trueworks in samenwerking met de NCRV
+<br><br>
+<h2>&copy; 2010 Trueworks / NCRV</h2>
+
+
+
+		</div>
+		
+	</div>
+</div>
+
+</div>
+<div id='fb'>
+
+<div>
+</body>
+</html>

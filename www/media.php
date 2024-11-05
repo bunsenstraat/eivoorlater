@@ -1,0 +1,161 @@
+<html>
+<head>
+<META NAME="DESCRIPTION" CONTENT="In deze persoonlijke documentaire worstelt Marieke, een 35-jarige Amsterdamse single, met haar aftikkende biologische klok. Ze wil graag kinderen, maar ze heeft de ware nog niet gevonden. Om zichzelf meer tijd te geven wil ze haar eicellen laten invriezen. Maar in Nederland kan dit (nog) niet. Marieke laat het er niet bij zitten en begint een zoektocht in het medische circuit.">
+<META NAME="KEYWORDS" CONTENT="baby,
+biologische klok,
+dertigersdilemma,
+documentaire,
+eicellen invriezen,
+Ei voor later,
+fertiliteit,
+fertiliteitsbehandeling,
+IVF,
+kinderwens,
+Marieke Schellart,
+NCRV,
+single,
+trailer,
+Trueworks,
+vruchtbaarheidsproblemen,
+zwanger">
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<META NAME="REVISIT-AFTER" CONTENT="6 Days">
+<TITLE>Ei voor later</TITLE>
+	<link rel="stylesheet" type="text/css" href="style.css"> 
+	
+</head>
+<body>
+<div id='main'>
+<ul id='menu'>
+	<li><a target=_self href='index.php'>Home</a></li>
+	<li><a target=_self href='trailer.php'>Trailer</a></li>
+	<li><a target=_self href='synopsis.php'>Synopsis</a></li>
+	<li><a target=_self href='crew.php'>Crew</a></li>
+	<li><a target=_self href='screenings.php'>Screenings</a></li>
+	<li><a class='selected' target=_self href='media.php'>Media</a></li>
+	<li><a target=_self href='pers.php'>Pers</a></li>
+	<li><a target=_self href='contact.php'>Contact</a></li>
+	<li><a target=_blank href='http://www.facebook.com/pages/Ei-voor-later/158976130798074'><img src="fb.jpg" alt="fb"/></a></li>
+</ul>
+<div class='header'>
+<h1>Media</h1>
+<hr>
+</div>
+<div class='contentframe'>
+<div id='media'>
+
+<table>
+		<tr>
+		<td class="medialeft">
+		<b>EenVandaag</b>
+		<br>21-04-2018, Ned 1
+		</td>
+		<td >
+		
+		<a href="https://www.npostart.nl/eenvandaag/21-04-2018/AT_2089672?utm_medium=refferal&utm_source=tvblik" target=_blank>
+			<img src="EenVandaag_logo.png" alt="EenVandaag_logo" width="" height="" />
+		</a>
+		</td>
+
+	</tr>
+
+<!--
+	<tr>
+		<td class="medialeft">
+		<b>Pauw en Witteman</b>
+		<br>VARA
+		<br>28-10-2010
+		</td>
+		<td >
+		
+		<embed src="http://pauwenwitteman.vara.nl/typo3conf/ext/vara_flashplayer/player/player.swf" AllowScriptAccess="always" width="315" height="199" bgcolor="262626" allowfullscreen="true" flashvars="config=http://pauwenwitteman.vara.nl/index.php%3Fid%3D1548%26type%3D9010%26tx_varaflashplayer_xmlgenerator%5Bconfig%5D%3D7232%26tx_varaflashplayer_xmlgenerator%5Bembed%5D%3D1%26cHash%3D3d50d7f3a781a2b6af9ea2e953d2bb8f" ></embed>
+		
+		</td>
+
+	</tr>
+-->
+  
+	<tr>
+		<td class="medialeft">
+		<b>Het Parool</b>
+		<br>29-10-2010
+		</td>
+		<td >
+		
+		<a href="HetParool_pag22_2010_10_29.jpg" target=_blank>
+			<img src="HetParool_2010_10_29.jpg"/>
+		</a>
+		</td>
+
+	</tr>
+	<tr>
+		<td class="medialeft">
+		<b>NRC Next</b>
+		<br>29-10-2010
+		</td>
+		<td >
+		
+		<a href="NRCNext_pag18_2010_10_29.jpg" target=_blank>
+			<img src="NRCNext_2010_10_29.jpg"/>
+		</a>
+		</td>
+
+	</tr>
+	<tr>
+		<td class="medialeft">
+		<b>De Telegraaf</b>
+		<br>29-10-2010
+		</td>
+		<td >
+		
+		<a href="Telegraaf_pag_2010_10_29.jpg" target=_blank>
+			<img src="Telegraaf_2010_10_29.jpg"/>
+		</a>
+		</td>
+
+	</tr>
+	
+	
+<!--
+	<tr>
+		<td class="medialeft">
+		<b>BNR</b>
+		<br>27-10-2010
+		</td>
+		<td >
+		
+			<object height="90" width="100%"> <param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F6580167&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F6580167&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700" type="application/x-shockwave-flash" width="100%"></embed> </object>
+		</td>
+
+	</tr>
+-->
+
+	<tr>
+		<td class="medialeft">
+		<b>De Pers</b>
+		<br>25-10-2010
+		</td>
+		<td >
+		
+		<a href="De Pers_pag15_2010_10_25.jpg" target=_blank>
+			<img src="DePers_2010_10_25.jpg"/>
+		</a>
+		</td>
+
+	</tr>
+	
+	
+	
+	
+
+	
+</table>
+
+</div>
+</div>
+</div>
+<div id='fb'>
+
+<div>
+</body>
+</html>

@@ -1,0 +1,77 @@
+ 
+ 
+ 
+ 
+ 
+<html>
+<head>
+<META NAME="DESCRIPTION" CONTENT="In deze persoonlijke documentaire worstelt Marieke, een 35-jarige Amsterdamse single, met haar aftikkende biologische klok. Ze wil graag kinderen, maar ze heeft de ware nog niet gevonden. Om zichzelf meer tijd te geven wil ze haar eicellen laten invriezen. Maar in Nederland kan dit (nog) niet. Marieke laat het er niet bij zitten en begint een zoektocht in het medische circuit.">
+<META NAME="KEYWORDS" CONTENT="baby,
+biologische klok,
+dertigersdilemma,
+documentaire,
+eicellen invriezen,
+Ei voor later,
+fertiliteit,
+fertiliteitsbehandeling,
+IVF,
+kinderwens,
+Marieke Schellart,
+NCRV,
+single,
+trailer,
+Trueworks,
+vruchtbaarheidsproblemen,
+zwanger">
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<META NAME="REVISIT-AFTER" CONTENT="6 Days">
+<TITLE>Ei voor later</TITLE>
+	<link rel="stylesheet" type="text/css" href="style.css"> 
+	
+</head>
+<body>
+<div id='main'>
+<ul id='menu'>
+	<li><a target=_self href='index.php'>Home</a></li>
+	<li><a target=_self href='trailer.php'>Trailer</a></li>
+	<li><a class='selected' target=_self href='synopsis.php'>Synopsis</a></li>
+	<li><a target=_self href='crew.php'>Crew</a></li>
+	<li><a target=_self href='screenings.php'>Screenings</a></li>
+	<li><a target=_self href='media.php'>Media</a></li>
+	<li><a target=_self href='pers.php'>Pers</a></li>
+	<li><a target=_self href='contact.php'>Contact</a></li>
+	<li><a target=_blank href='http://www.facebook.com/pages/Ei-voor-later/158976130798074'><img src="fb.jpg" alt="fb"/></a></li>
+</ul>
+<div class='header'>
+<h1>Synopsis</h1>
+<hr>
+</div>
+<div class='contentframe'>
+<div>
+In deze persoonlijke documentaire worstelt Marieke, een 35-jarige Amsterdamse single, met haar aftikkende biologische klok. Ze wil graag kinderen, maar ze heeft de ware nog niet gevonden. Om zichzelf meer tijd te geven wil ze haar eicellen laten invriezen. Maar in Nederland kan dit (nog) niet. Marieke laat het er niet bij zitten en begint een zoektocht in het medische circuit.
+<br><br><br>
+<h2>Prijzen</h2>
+Publieksprijs DokmentART 2011, Duitsland<br>
+Eervolle vermelding Belgrade Documentary & Short Film Festival 2012, Servië<br>
+Eervolle vermelding UnderhillFest 2012, Montenegro<br>
+Eervolle vermelding Film & Science Festival 2013, Nederland<br>
+<br>
+
+
+<table class="metainfo">
+<tr><td>Duur</td><td>50 minuten</td></tr>
+<tr><td>Format</td><td>PAL DigiBeta</td></tr>
+<tr><td>Screen ratio</td><td>16:9 kleur</td></tr>
+<tr><td>Taal</td><td>Nederlands & Engels</td></tr>
+<tr><td>Ondertitels</td><td>Engels of Spaans</td></tr>
+<tr><td>Geluid</td><td>Stereo</td></tr>
+<tr><td>Productie jaar</td><td>2010</td></tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div id='fb'>
+<div>
+</body>
+</html>

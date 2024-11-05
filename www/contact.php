@@ -1,0 +1,86 @@
+ 
+ 
+ 
+<html>
+<head>
+<META NAME="DESCRIPTION" CONTENT="In deze persoonlijke documentaire worstelt Marieke, een 35-jarige Amsterdamse single, met haar aftikkende biologische klok. Ze wil graag kinderen, maar ze heeft de ware nog niet gevonden. Om zichzelf meer tijd te geven wil ze haar eicellen laten invriezen. Maar in Nederland kan dit (nog) niet. Marieke laat het er niet bij zitten en begint een zoektocht in het medische circuit.">
+<META NAME="KEYWORDS" CONTENT="baby,
+biologische klok,
+dertigersdilemma,
+documentaire,
+eicellen invriezen,
+Ei voor later,
+fertiliteit,
+fertiliteitsbehandeling,
+IVF,
+kinderwens,
+Marieke Schellart,
+NCRV,
+single,
+trailer,
+Trueworks,
+vruchtbaarheidsproblemen,
+zwanger">
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<META NAME="REVISIT-AFTER" CONTENT="6 Days">
+<TITLE>Ei voor later</TITLE>
+	<link rel="stylesheet" type="text/css" href="style.css"> 
+</head>
+<body>
+<div id='main'>
+<ul id='menu'>
+	<li><a target=_self href='index.php'>Home</a></li>
+	<li><a target=_self href='trailer.php'>Trailer</a></li>
+	<li><a target=_self href='synopsis.php'>Synopsis</a></li>
+	<li><a target=_self href='crew.php'>Crew</a></li>
+	<li><a target=_self href='screenings.php'>Screenings</a></li>
+	<li><a target=_self href='media.php'>Media</a></li>
+	<li><a target=_self href='pers.php'>Pers</a></li>
+	<li><a class='selected'  target=_self href='contact.php'>Contact</a></li>
+	<li><a target=_blank href='http://www.facebook.com/pages/Ei-voor-later/158976130798074'><img src="fb.jpg" alt="fb"/></a></li>
+</ul>
+<div class='header'>
+<h1>Contact</h1>
+<hr>
+</div>
+<div class='contentframe'>
+<div>
+<h2>Trueworks</h2>
+Damrak 70<br>
+1012 LM Amsterdam<br>
++31 (0)6 248 70 468<br>
+reinette@true-works.nl<br>
+<a href='http://www.trueworks.nl' target="_blank">www.trueworks.nl</a><br>
+<br><br>
+<h2>Verkoop</h2>Tot nu toe is Ei voor later verkocht aan:<br>
+NCRV, Nederland<br>
+ORF, Oostenrijk<br>
+VTM, België<br>
+Stylia, Frankrijk<br>
+YLE, Finland<br>
+Yes, Israël<br>
+Extra TV, Montenegro<br>
+TVN, Polen<br>
+UR, Zweden<br>
+RSI, Zwitserland<br>
+24 Dok, Rusland<br>
+
+
+
+
+<br>
+Lengte 50 minuten<br>
+PAL Digibeta <br>
+16:9 Kleur<br>
+Nederlands / Engels<br>
+Stereo<br>
+2010<br>
+</div>
+</div>
+</div>
+</div>
+<div id='fb'>
+
+<div>
+</body>
+</html>
